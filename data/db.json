@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create header for website",
+      "details": "lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Create footer for website",
+      "details": "lorem ipsummmm",
+      "complete": true
+    },
+    {
+      "title": "food",
+      "details": "get more",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "create website",
+      "details": "m m m m ",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
